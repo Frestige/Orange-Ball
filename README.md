@@ -25,11 +25,29 @@ https://github.com/Frestige/Orange-Ball/assets/138363193/94c5e077-74fa-439e-8f93
 - Timer so as not to lose track of time (can be deactivated via the pause menu)
 
 
+## Requirements
+
+- Unity if you want to build your own files
+- (iOS) Xcode to open the project files (only on mac)
+
+
 ## Usage
 
 Download the files to build it on your own via Unity or use the pre builded versions in "Builds" (only iOS & Windows).
 
 If you build your own iOS files, don't forget to select the correct SDK (simulator or device) via player settings.
+
+And if you use the device SDK version, make sure to download and import [provisioning profiles](https://help.apple.com/xcode/mac/current/#/deva899b4fe5)
+
+
+## Installation
+
+iOS: Download the desired version and open the Xcode project ("Unity-iPhone.xcodeproj"), select your Device / Simulator and hit run.
+
+(NOTE: For whatever reason does Xcode connect to the internet when running the simulator - (the game is 100% offline) if you know a solution for this, please let me know)
+
+
+Windows: Open the .exe in the folder
 
 
 ## About me
