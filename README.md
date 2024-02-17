@@ -33,7 +33,7 @@ https://github.com/Frestige/Orange-Ball/assets/138363193/94c5e077-74fa-439e-8f93
 
 ## Usage
 
-Download the files to build it on your own via Unity or use the pre builded versions in "Builds" (only iOS & Windows).
+Download the files to build it on your own via Unity or use the pre builded versions in the "Builds" folder in the v1.4 release (only iOS & Windows).
 
 If you build your own iOS files, don't forget to select the correct SDK (simulator or device) via player settings.
 
