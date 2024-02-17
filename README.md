@@ -1,7 +1,7 @@
 # Orange-Ball
 A simple minigame made with Unity.
 
-An orange ball that falls down and bounces off randomly generated circles and squares.
+An orange ball that falls endlessly down and bounces off randomly generated circles and squares.
 
 - Made with Unity
 - ChatGPT 3.5 helped with code
@@ -34,21 +34,21 @@ https://github.com/Frestige/Orange-Ball/assets/138363193/582d8082-824a-4bbb-8a4f
 
 ## Usage
 
-Download the files to build it on your own via Unity or use the pre builded versions in the "Builds" folder in the v1.4 release (only iOS & Windows).
+Download the files to build it on your own via Unity or use the pre builded versions in the "Builds" folder in [release](https://github.com/Frestige/Orange-Ball/releases/tag/v1.4) (only iOS & Windows).
 
 If you build your own iOS files, don't forget to select the correct SDK (simulator or device) via player settings.
 
-And if you use the device SDK version, make sure to download and import [provisioning profiles](https://help.apple.com/xcode/mac/current/#/deva899b4fe5)
+And if you use the device SDK version, make sure to download and import your [provisioning profiles](https://help.apple.com/xcode/mac/current/#/deva899b4fe5)
 
 
 ## Installation
 
-iOS: Download the desired version and open the Xcode project ("Unity-iPhone.xcodeproj"), select your Device / Simulator and hit run.
+(Pre-build) iOS: Download the [release](https://github.com/Frestige/Orange-Ball/releases/tag/v1.4), go to the "Builds" folder, select your version and open the Xcode project ("Unity-iPhone.xcodeproj"), select your Device / Simulator and hit run.
 
-(NOTE: For whatever reason does Xcode connect to the internet when running the simulator - (the game is 100% offline) if you know a solution for this, please let me know)
+(NOTE: For whatever reason does Xcode connect to the internet when running the simulator - (the game is 100% offline) if you know a solution for this, [please let me know](https://x.com/maxim_lrn?s=21&t=lmH1howR24KPrWqYhTc3YQ))
 
 
-Windows: Open the .exe in the folder
+(Pre-Build) Windows: Open the .exe in the folder
 
 
 ## About me
