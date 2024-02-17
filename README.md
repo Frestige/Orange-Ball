@@ -22,6 +22,7 @@ https://github.com/Frestige/Orange-Ball/assets/138363193/582d8082-824a-4bbb-8a4f
 ## Gameplay
 
 - Jump by tapping the screen
+- If you get stuck somewhere and can't go down, just jump high enough - so the shapes can generate a new layout
 - Continue, Restart or Quit via the pause menu
 - Timer so as not to lose track of time (can be deactivated via the pause menu)
 
