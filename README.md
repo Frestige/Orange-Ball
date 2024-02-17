@@ -15,7 +15,8 @@ An orange ball that falls down and bounces off randomly generated circles and sq
 ![OrangeBall Startscreen](https://github.com/Frestige/Orange-Ball/assets/138363193/bddf644e-2db2-49e7-a016-a3433f0e6066) | ![OrangeBall Ingame](https://github.com/Frestige/Orange-Ball/assets/138363193/50d38901-984d-4f13-b602-13c47dfa2cbb)
 --- | --- |
 
-https://github.com/Frestige/Orange-Ball/assets/138363193/94c5e077-74fa-439e-8f93-da68f2c50f5a
+
+https://github.com/Frestige/Orange-Ball/assets/138363193/eb7b5c48-f468-4eb1-bbd6-3080759192a8
 
 
 ## Gameplay
