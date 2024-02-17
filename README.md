@@ -6,7 +6,7 @@ An orange ball that falls down and bounces off randomly generated circles and sq
 - Made with Unity
 - ChatGPT 3.5 helped with code
 - Designed for iPhone & iPad
-- Available for iOS, Android & Windows
+- Available on iOS, Android & Windows
 - Tested on iOS & Windows (UI on windows could be buggy)
 
 
