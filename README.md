@@ -48,9 +48,9 @@ And if you use the device SDK version, make sure to download and import your [pr
 
 (NOTE: For whatever reason does Xcode connect to the internet when running the simulator - (the game is 100% offline) if you know a solution for this, [please let me know](https://x.com/maxim_lrn?s=21&t=lmH1howR24KPrWqYhTc3YQ))
 
-(Pre-Build) Android: Open the .apk in the folder 
+(Pre-Build) Android: [Download](https://github.com/Frestige/Orange-Ball/tree/main/Builds/Android/v1.4) and open OrangeBall.apk
 
-(Pre-Build) Windows: Open the .exe in the folder
+(Pre-Build) Windows: [Download the folder](https://github.com/Frestige/Orange-Ball/tree/main/Builds/PC) and open Orange Ball.exe
 
 
 ## About me
