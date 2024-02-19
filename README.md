@@ -5,9 +5,7 @@ An orange ball that falls endlessly down and bounces off randomly generated circ
 
 - Made with Unity
 - ChatGPT 3.5 helped with code
-- Designed for iPhone & iPad
 - Available on iOS, Android & Windows
-- Tested on iOS, Android & Windows (UI on windows could be buggy)
 
 
 ## Screenshots & Videos
