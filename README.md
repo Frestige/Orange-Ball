@@ -5,9 +5,7 @@ An orange ball that falls endlessly down and bounces off randomly generated circ
 
 - Made with Unity
 - ChatGPT 3.5 helped with code
-- Designed for iPhone & iPad
 - Available on iOS, Android & Windows
-- Tested on iOS, Android & Windows (UI on windows could be buggy)
 
 
 ## Screenshots & Videos
@@ -24,7 +22,7 @@ https://github.com/Frestige/Orange-Ball/assets/138363193/582d8082-824a-4bbb-8a4f
 - Jump by tapping the screen
 - If you get stuck somewhere and can't go down, just jump high enough - so the shapes can generate a new layout
 - Continue, Restart or Quit via the pause menu
-- Timer so as not to lose track of time (can be deactivated via the pause menu)
+- Timer so as not to lose track of time (can be deactivated in the pause menu)
 
 
 ## Requirements
@@ -37,7 +35,7 @@ https://github.com/Frestige/Orange-Ball/assets/138363193/582d8082-824a-4bbb-8a4f
 
 Download the files to build it on your own via Unity or use the pre builded versions in the "Builds" folder in the [release](https://github.com/Frestige/Orange-Ball/releases/tag/v1.4) folder.
 
-If you build your own iOS files, don't forget to select the correct SDK (simulator or device) via player settings.
+If you build your own iOS files, don't forget to select the correct SDK (simulator or device) in player settings.
 
 And if you use the device SDK version, make sure to download and import your [provisioning profiles](https://help.apple.com/xcode/mac/current/#/deva899b4fe5)
 
